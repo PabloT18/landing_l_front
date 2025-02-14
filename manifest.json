@@ -1,7 +1,7 @@
 {
     "name": "LyP",
     "short_name": "LyP",
-    "start_url": ".",
+    "start_url": "/landing_l_front/",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#ffffff",
